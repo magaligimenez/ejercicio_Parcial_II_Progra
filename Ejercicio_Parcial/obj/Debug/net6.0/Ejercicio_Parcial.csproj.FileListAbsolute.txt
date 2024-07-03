@@ -1,0 +1,12 @@
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\Ejercicio_Parcial\obj\Debug\net6.0\Ejercicio_Parcial.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\Ejercicio_Parcial\obj\Debug\net6.0\Ejercicio_Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\Ejercicio_Parcial\obj\Debug\net6.0\Ejercicio_Parcial.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\Ejercicio_Parcial\obj\Debug\net6.0\Ejercicio_Parcial.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\Ejercicio_Parcial\obj\Debug\net6.0\Ejercicio_Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\Ejercicio_Parcial\bin\Debug\net6.0\Ejercicio_Parcial.deps.json
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\Ejercicio_Parcial\bin\Debug\net6.0\Ejercicio_Parcial.dll
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\Ejercicio_Parcial\bin\Debug\net6.0\Ejercicio_Parcial.pdb
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\Ejercicio_Parcial\obj\Debug\net6.0\Ejercicio_Parcial.dll
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\Ejercicio_Parcial\obj\Debug\net6.0\refint\Ejercicio_Parcial.dll
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\Ejercicio_Parcial\obj\Debug\net6.0\Ejercicio_Parcial.pdb
+C:\Users\Usuario\OneDrive\Documentos\cursada_labo_progra_II\Ejercicio_Parcial\obj\Debug\net6.0\ref\Ejercicio_Parcial.dll
